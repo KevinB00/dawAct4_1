@@ -16,6 +16,8 @@ _Código:_
 
 `<li>Programación</li>`...
 
+![Despliegue Web](imagen.jpg)
+
 
 ### Autor
 Kevin Rodrigo Buenaño Evans
